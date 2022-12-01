@@ -1,0 +1,10 @@
+.thumbnail-recipes {
+    position: relative;
+}
+
+.title-thumb {
+    position: absolute;
+    top: 60%;
+    left: 0;
+    width: 100%;
+}

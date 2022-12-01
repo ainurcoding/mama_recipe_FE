@@ -1,0 +1,93 @@
+/* article section */
+.article-banner {
+    height: 700px;
+}
+
+.article-banner img {
+    width: 56.35%;
+    height: 100%;
+}
+
+.article-title {
+    color: #2E266F;
+    font-size: 40px;
+}
+
+.ingredients-title,
+.title-video-step,
+.comment-title {
+    font-size: 25px;
+}
+
+.article-ingredients,
+.article-video-step {
+    font-size: 20px;
+    display: block;
+    padding: 0 0 0 40vh;
+}
+
+.article-comment-form {
+    padding-left: 40vh;
+}
+
+.video-step {
+    display: block;
+    background-color: #efc81a;
+    width: 21.5%;
+    height: 40px;
+    border-radius: 3%;
+    color: white;
+}
+
+.textarea-detail-recipe {
+    background-color: #F6F5F4;
+    border: none;
+    outline: none;
+}
+
+.textarea-detail-recipe::placeholder {
+    padding: 10px;
+}
+
+.form-send {
+    width: 21.5%;
+    height: 30px;
+    text-decoration: none;
+    background-color: #efc81a;
+    color: white;
+    margin-left: 30%;
+}
+
+.col-2 {
+    flex: 0 0 auto;
+    width: 0;
+}
+.col-2.img-person {
+    width: auto;
+    padding: 0;
+}
+
+.space-empty {
+    width: 100%;
+    height: 20vh;
+    display: flex;
+}
+
+.whMaxContent  {
+    width : max-content;
+    height: max-content;
+}
+
+.iconSize {
+    width: 52px;
+    height: 52px;
+    border-radius: 10px;
+}
+
+.banner1wh {
+    width: 1081px;
+    height: 700px;
+}
+/* end of article section */
+
+

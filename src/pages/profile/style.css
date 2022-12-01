@@ -1,0 +1,119 @@
+.img-profile,
+.name-profile {
+    width: 100%;
+    height: max-content;
+    background-size: cover;
+    margin-left: 15%;
+}
+
+.edit-img {
+    
+    margin-left: 65%;
+    margin-right: 0;
+    top: 40vh;
+    color: #efc81a;
+}
+
+.chg-photo,
+.chg-pw {
+    display: flex;
+    width: 20%;
+    height: 50px;
+    margin-right: 0;
+    margin-left: 55%;
+    margin-bottom: 1%;
+    background-color: #E7E7E7;
+    align-items: center;
+    justify-content: center;
+    border-radius: 2.5%;
+}
+
+.chg-pw a {
+    text-decoration: none;
+    color: black;
+}
+
+ 
+
+
+.line-profile {
+    height: 2px !important;
+    width: 25% !important;
+    border-width: 0 !important;
+    color: black !important;
+    background-color: rgba(0, 0, 0, 0.33) !important;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btn {
+    margin-left: 10%;    
+}
+
+.line-collpase {
+    width: 1500%;
+}
+
+.card {
+    display: inline;
+    border: none;
+}
+
+.multi-collapse {
+    margin: auto;
+    width: 70%;
+}
+
+.col-card {
+    height: 360px;
+    width:100%;
+    overflow-y: auto;
+}
+.card-image {
+    position: relative;
+    display: inline;
+    width: auto;
+}
+.card-image p {
+    width: 250px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 5%;
+    color: white;
+    
+}
+
+.card-image img {
+    margin-right: 3%;
+    margin-bottom: 3%;
+    /* width: 370px; */
+    /* height: 250px; */
+}
+
+.button-customize {
+    background-color: none !important;
+}
+
+.hidden {
+    display: none;
+}
+
+.borderRadius {
+    width : 172px;
+    height : 172px;
+    border-radius: 50%
+}
+
+.btn-customize {
+    outline : none;
+    border: none;
+    border-radius: 5px;
+}
+
+.btn-customize-nav {
+    outline : none;
+    border: none;
+    border-radius: 5px;
+    background: none
+}

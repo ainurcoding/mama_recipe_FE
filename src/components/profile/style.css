@@ -1,0 +1,17 @@
+.imgSize {
+    width: 370px;
+    height: 250px;
+    border-radius: 10px;
+}
+
+.bg-red {
+    background-color: rgb(255, 142, 142);
+}
+
+.bg-red:hover {
+    background-color: rgba(196, 76, 76, 0.7);
+}
+
+/* .imageSize {
+    width:
+} */

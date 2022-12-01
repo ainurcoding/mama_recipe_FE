@@ -1,0 +1,346 @@
+.txt-color-yellow {
+    color: #efc81a;
+}
+
+.txt-color-yellow:hover {
+    color: #b0951a97;
+}
+
+.txt-color-blue {
+    color: #2E266F;
+}
+
+.txt-color-blue:hover {
+    color: #2e266fbd;
+}
+
+.bg-color-yellow {
+    background-color: #efc81a;
+}
+
+.bg-color-greenlt {
+    background-color: greenyellow;
+}
+
+.bg-color-greenlt:hover {
+    background-color: rgba(172, 255, 47, 0.566);
+}
+
+.bg-color-yellow-nh {
+    background-color: #efc81a;
+}
+
+.bg-color-white {
+    background-color: rgba(255, 255, 255, 0);
+}
+
+.bg-color-yellow:hover {
+    background-color: #b0951a97;
+}
+
+.buttonReset {
+    border: none;
+    outline: none;
+    border-radius: 10px;
+}
+
+input[type="text"]::placeholder,
+input[type="email"]::placeholder,
+input[type="password"]::placeholder {
+    padding-left: 2% !important;
+}
+
+.input-control:focus {
+    border-color: #efc81a !important;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(239, 200, 26, 0.6);
+    box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075), 0 0 8px rgba(239, 200, 26, 0.6);
+}
+
+.checked-control:checked {
+        background-color: #efc81a !important;
+}
+
+.noBorder {
+    border: none;
+    outline: none;
+}
+
+/* width customize */
+
+.w-10 {
+    width: 10%!important;
+}
+
+.w-20 {
+    width: 20%!important;
+}
+
+.w-30 {
+    width: 30%!important;
+}
+
+.w-40 {
+    width: 40%!important;
+}
+
+.w-51 {
+    width: 51%!important;
+}
+.w-52 {
+    width: 52%!important;
+}
+.w-53 {
+    width: 53%!important;
+}
+.w-54 {
+    width: 54%!important;
+}
+.w-55 {
+    width: 55%!important;
+}
+.w-56 {
+    width: 56%!important;
+}
+.w-57 {
+    width: 57%!important;
+}
+.w-58 {
+    width: 58%!important;
+}
+.w-59 {
+    width: 59%!important;
+}
+
+.w-60 {
+    width: 60%!important;
+}
+
+.w-61 {
+    width: 61%!important;
+}
+.w-62 {
+    width: 62%!important;
+}
+.w-63 {
+    width: 63%!important;
+}
+.w-64 {
+    width: 64%!important;
+}
+.w-65 {
+    width: 65%!important;
+}
+.w-66 {
+    width: 66%!important;
+}
+.w-67 {
+    width: 67%!important;
+}
+.w-68 {
+    width: 68%!important;
+}
+.w-69 {
+    width: 69%!important;
+}
+
+
+.w-70 {
+    width: 70%!important;
+}
+
+.w-80 {
+    width: 80%!important;
+}
+
+.w-90 {
+    width: 90%!important;
+}
+
+/* height customize */
+
+.h-10 {
+    height: 10%!important;
+}
+
+.h-20 {
+    height: 20%!important;
+}
+
+.h-30 {
+    height: 30%!important;
+}
+
+.h-40 {
+    height: 40%!important;
+}
+
+.h-60 {
+    height: 60%!important;
+}
+
+.h-70 {
+    height: 70%!important;
+}
+
+.h-80 {
+    height: 80%!important;
+}
+
+.h-90 {
+    height: 90%!important;
+}
+
+/* for absolute customize */
+.start-1 {
+    left: 1%!important;
+}
+
+.start-2 {
+    left: 2%!important;
+}
+
+.start-3 {
+    left: 3%!important;
+}
+
+.start-4 {
+    left: 4%!important;
+}
+
+.start-5 {
+    left: 5%!important;
+}
+
+.start-6 {
+    left: 6%!important;
+}
+
+.start-7 {
+    left: 7%!important;
+}
+
+.start-8 {
+    left: 8%!important;
+}
+
+.start-9 {
+    left: 9%!important;
+}
+
+.start-10 {
+    left: 10%!important;
+}
+
+.start-20 {
+    left: 20%!important;
+}
+
+.start-30 {
+    left: 30%!important;
+}
+
+.start-40 {
+    left: 40%!important;
+}
+
+.start-50 {
+    left: 50%!important;
+}
+
+
+.start-60 {
+    left: 60%!important;
+}
+
+.start-70 {
+    left: 70%!important;
+}
+
+.start-80 {
+    left: 80%!important;
+}
+
+.start-90 {
+    left: 90%!important;
+}
+
+.start-100 {
+    left: 100%!important;
+}
+
+
+ /* top */
+.top-10 {
+    top: 10%!important;
+}
+
+.top-20 {
+    top: 20%!important;
+}
+
+.top-30 {
+    top: 30%!important;
+}
+
+.top-40 {
+    top: 40%!important;
+}
+
+.top-50 {
+    top: 50%!important;
+}
+
+.top-60 {
+    top: 60%!important;
+}
+
+.top-70 {
+    top: 70%!important;
+}
+
+.top-80 {
+    top: 80%!important;
+}
+
+.top-90 {
+    top: 90%!important;
+}
+
+.top-100 {
+    top: 100%!important;
+}
+/* end of for absolute customize */
+
+
+
+
+
+/* font airbnb */
+@font-face {
+
+    src: url('../fonts/AirbnbCereal_W_Lt.otf');
+    font-family: 'airbnb_lt';
+}
+
+@font-face {
+    src: url('../fonts/AirbnbCereal_W_XBd.otf');
+    font-family: 'airbnb_bd';
+}
+
+@font-face {
+    src: url('../fonts/AirbnbCereal_W_Md.otf');
+    font-family: 'airbnb_md';
+}
+
+.airbnb-lt {
+    font-family: 'airbnb_lt', sans-serif;
+}
+
+.airbnb-bd {
+    font-family: 'airbnb_bd', sans-serif;
+}
+
+.airbnb-md {
+    font-family: 'airbnb_md', sans-serif;
+}
+

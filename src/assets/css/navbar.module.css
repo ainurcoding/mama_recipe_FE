@@ -1,0 +1,42 @@
+.navbar_link {
+    text-decoration: none;
+}
+
+
+
+
+@media (max-width: 4440px) {
+    .resp-text {
+        
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 1400px) {
+    .resp-text {
+        
+        font-size: 18px;
+    }
+}
+@media (max-width: 1200px) {
+    .resp-text {
+        font-size: 18px;
+    }
+}
+@media (max-width: 992px) {
+    .resp-text {
+        font-size: 18px;
+    }
+}
+@media (max-width: 768px) {
+    .resp-text {
+        font-size: 18px;
+    }
+}
+@media (max-width: 576px) {
+    .resp-text {
+        font-size: 18px;
+    }
+   
+}
+

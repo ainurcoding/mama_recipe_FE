@@ -1,0 +1,65 @@
+.form-input-custom:focus {
+    border-color: none !important;
+}
+
+.yellow-stick {
+    width: 25px;
+}
+
+.border-yellow {
+    border: solid 3px;
+    border-color: #efc81a;
+}
+
+@media (max-width: 1920px) {
+    .img1-responsif {
+        height: 500px;
+        width: 500px;
+        
+        
+    }
+}
+
+@media (max-width: 1400px) {
+    .img1-responsif {
+        height: 400px;
+        width: 400px;
+        
+    }
+}
+@media (max-width: 1200px) {
+    .img1-responsif {
+        height: 300px;
+        width: 300px;
+        
+    }
+}
+@media (max-width: 992px) {
+    .img1-responsif {
+        height: 300px;
+        width: 300px;
+        
+    }
+}
+@media (max-width: 768px) {
+    .img1-responsif {
+        height: 150px;
+        width: 150px;
+        
+    }
+}
+@media (max-width: 576px) {
+    .img1-responsif {
+        height: 150px;
+        width: 150px;
+        
+    }
+   
+}
+
+@media (max-width: 340px) {
+    .img1-responsif {
+        height: 50px;
+        width: 50px;
+    }
+}

@@ -1,0 +1,93 @@
+.banner { 
+    background: linear-gradient(rgba(239, 200, 26, 0.7), rgba(239, 200, 26, 0.7)), url('../img/banner1.jpg');
+    width: 100%;
+    height: 100%;
+    /* background-size: ; */
+    /* background-position: center; */
+}
+.wrapper {
+    height: max-content;
+    width: 60%;
+}
+
+.wrapper-ch {
+    height: max-content;
+    width: 100%;
+}
+
+.buttonAuth {
+    width: 100%;
+    border-radius: 1.5px;
+}
+
+.buttonAuth:hover {
+    cursor: pointer;
+}
+
+
+/* responsive */
+@media (max-width: 4440px) {
+    .container-auth, .container-lg, .container-md, .container-sm {
+        height: 100vh;
+        max-width: 100vw;
+        max-height: 100%;
+        
+    }
+}
+
+@media (max-width: 1400px) {
+    .container-auth, .container-lg, .container-md, .container-sm {
+        height: 100vh;
+        max-width: 100vw;
+        max-height: 100%;
+        
+    }
+}
+@media (max-width: 1200px) {
+    .container-auth, .container-lg, .container-md, .container-sm {
+        height: 100vh;
+        max-width: 100vw;
+        
+    }
+}
+@media (max-width: 992px) {
+    .container-auth, .container-lg, .container-md, .container-sm {
+        height: 100vh;
+        max-width: 100vw;
+        
+    }
+}
+@media (max-width: 768px) {
+    .container-auth, .container-lg, .container-md, .container-sm {
+        height: 100vh;
+        max-width: 100vw;
+        
+    }
+}
+@media (max-width: 576px) {
+    .container-auth, .container-lg, .container-md, .container-sm {
+        height: 100vh;
+        max-width: 100vw;
+        
+    }
+   
+}
+
+@media (max-width: 576px) {
+    .container-auth  {
+       
+        height: 100vh;
+        max-width: 100vw;
+        
+    }
+   
+}
+
+@media (max-width: 540px) {
+    .col-xs-12 {
+        flex: 0 0 auto !important;
+        width: 100% !important;
+    }
+}
+
+/* responsive */
